@@ -20,5 +20,5 @@ Each project was split into two parts: Part A and Part B. Part A usually involve
 * Part B: Implement threads in xv6, however I did not do this project because we were allowed to drop one project from our grade and it was Thanksgiving break :)
 
 ## p5
-* Part A: Fully functional network file server, using UDP and RPC. This was by far my favorite project in the course. It taught me a great deal about file systems.
+* Part A: Fully functional network file server, using UDP and RPC. This was by far my favorite project of the course. It taught me a great deal about file systems, as it required me to implement one from scratch. The name of the file system I had to implement is MFS.
 * Part B: Implemented a new file type in xv6 that supported mirroring, similar to RAID. A file of this type was gauranteed to always have two copies on disk.
